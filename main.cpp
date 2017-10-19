@@ -34,21 +34,13 @@ int main(){
                         for(int o = 0; o < star[i].size(); o++){
 
                                 star[i][o] = '*';
-
-                        }
-
-                }
-
-                for(int i = 0; i < star.size(); i++){
-
-                        for(int o = 0; o < star[i].size(); o++){
-
                                 cout<<star[i][o];
 
                         }
                         cout<<endl;
 
                 }
+
 
         }
 
