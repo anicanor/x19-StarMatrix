@@ -7,9 +7,8 @@ using namespace std;
 int main(){
 
         int row, col;
-        cout<<"Input number of rows"<<endl;
+        cout<<"Enter rows and columns of stars:"<<endl;
         cin>>row;
-        cout<<"Input number of columns"<<endl;
         cin>>col;
 
         if(row <= 0){
